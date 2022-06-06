@@ -5,7 +5,7 @@
   "version": "5.0.0",
   "keywords": ["MUI", "MUI v5", "Material-UI", "MUI Theme Creator"],
   "author": "Brian Reynolds <brireyn@gmail.com>",
-  "contributors": ["Zenoo (https://github.com/Zenoo)"],
+  "contributors": ["vfproductions (https://github.com/vfproductions)"],
   "dependencies": {
     "@babel/eslint-parser": "^7.17.0",
     "@emotion/react": "^11.9.0",
@@ -76,10 +76,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/zenoo/mui-theme-creator"
+    "url": "https://github.com/vfproductions/mui-theme-creator"
   },
-  "homepage": "https://zenoo.github.io/mui-theme-creator/",
+  "homepage": "https://vfproductions.github.io/mui-theme-creator/",
   "bugs": {
-    "url": "https://github.com/zenoo/mui-theme-creator/issues"
+    "url": "https://github.com/vfproductions/mui-theme-creator/issues"
   }
 }
